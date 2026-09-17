@@ -1,0 +1,20 @@
+{
+  "target_roles": [
+    "Software Engineer",
+    "AI Engineer",
+    "Cloud Engineer"
+  ],
+  "experience_years": 1.5,
+  "education": ["MS Computer Science", "BE Computer Science"],
+  "skills": [
+    "Python",
+    "Java",
+    "Kotlin",
+    "AWS",
+    "PyTorch",
+    "Docker",
+    "FastAPI"
+  ],
+  "preferred_locations": ["United States", "Remote"],
+  "requires_future_sponsorship": true
+}
