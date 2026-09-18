@@ -1,0 +1,59 @@
+{
+  "target_roles": [
+    "Backend Engineer",
+    "Data Engineer"
+  ],
+
+  "experience_years": 3.0,
+
+  "education": [
+    "BS Software Engineering"
+  ],
+
+  "skills": [
+    "Go",
+    "TypeScript",
+    "SQL",
+    "PostgreSQL",
+    "Redis",
+    "Docker",
+    "Kubernetes",
+    "GCP",
+    "Terraform",
+    "GitHub Actions"
+  ],
+
+  "experience": [
+    "Built and maintained REST APIs for production web applications",
+    "Developed background processing and event-driven services",
+    "Worked with relational databases and caching systems",
+    "Containerized services and deployed them to cloud infrastructure",
+    "Maintained CI/CD pipelines and automated infrastructure provisioning"
+  ],
+
+  "certifications": [
+    "Example Cloud Certification"
+  ],
+
+  "preferred_locations": [
+    "Remote",
+    "Seattle, WA"
+  ],
+
+  "requires_future_sponsorship": false,
+
+  "employment_preferences": {
+    "exclude_staffing_companies": false,
+    "allow_established_consultancies": true,
+    "acceptable_consultancy_examples": [
+      "Example Technology Consulting"
+    ],
+    "avoid_layered_subcontracting": true,
+    "avoid_c2c_only_roles": false
+  },
+
+  "constraints": [
+    "Prefer backend or infrastructure-focused roles",
+    "Avoid roles requiring frequent international travel"
+  ]
+}
